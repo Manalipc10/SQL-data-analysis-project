@@ -1,11 +1,10 @@
 # SQL-data-analysis-project 
-
-
+--
 ## 📌 Overview
 This project demonstrates how SQL alone can be used as a **complete data analytics and business intelligence engine** — without relying on external BI tools.
 Each SQL script in this repository solves a **specific real-world business problem**, ranging from exploratory analysis to advanced performance and segmentation reporting.
 It utilizes a star-schema warehouse with three tables: `fact_sales`, `dim_customers`, and `dim_products`.
----
+
 
 ## 🎯 Project Goals
 - Apply **advanced SQL concepts** (CTEs, window functions, subqueries, joins) to analyze large datasets.
